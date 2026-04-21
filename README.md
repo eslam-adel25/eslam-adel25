@@ -48,11 +48,7 @@ I’m a passionate developer focused on building high-performance web applicatio
     height="160" 
   />
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-adel25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" 
- alt="Top Languages" 
- height="160" 
-/>
+
 
 
 </p>
