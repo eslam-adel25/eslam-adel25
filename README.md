@@ -41,23 +41,24 @@ I’m a passionate developer focused on building high-performance web applicatio
 
 ### 📊 GitHub Activity
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=eslam-adel25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
-    alt="Eslam Adel GitHub Stats" 
-    height="160" 
+    height="170"
   />
 
-
-
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-adel25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" 
+    height="170"
+  />
 </p>
 
-<img 
-src="https://streak-stats.demolab.com?user=eslam-adel25&theme=tokyonight&hide_border=true&background=0D1117" 
-alt="GitHub Streak" 
-/>
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=eslam-adel25&theme=tokyonight&hide_border=true&background=0D1117" 
+    height="170"
+  />
+</p>
 
 ---
 
