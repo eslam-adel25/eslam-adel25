@@ -41,20 +41,15 @@ I’m a passionate developer focused on building high-performance web applicatio
 
 ### 📊 GitHub Activity
 
-<table align="center">
-<tr>
-<td width="60%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eslam-adel25&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</td>
-<td width="40%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eslam-adel25&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eslam-adel25&layout=compact&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
-</table>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eslam-adel25&layout=compact&theme=tokyonight&hide_border=true"  width="60%"/>
+
+
 
 <p align="center">
   <img 
